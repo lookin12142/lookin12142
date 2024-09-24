@@ -13,8 +13,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,docker,git,spring,py,vscode,postgres,css,html,js,nodejs,react,firebase)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=docker,git,py,vscode,postgres,css,html,js,nodejs,react,firebase)](https://skillicons.dev)
+    
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="start">
