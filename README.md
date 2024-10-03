@@ -7,7 +7,6 @@
 - 🧑‍💻 &nbsp; Experienced backend software engineer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💭 &nbsp; Passionate about software architecture and design.
-- 💻 &nbsp; Currently working as a Senior Software Engineer.
 - 👯 &nbsp; Love working with people.
 - 🏅 &nbsp; Working out is a huge hobby for me.
 
