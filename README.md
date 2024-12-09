@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🧑‍💻 &nbsp; Experienced backend software engineer.
+- 🧑‍💻 &nbsp; Experienced Full Stack software engineer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💭 &nbsp; Passionate about software architecture and design.
 - 👯 &nbsp; Love working with people.
